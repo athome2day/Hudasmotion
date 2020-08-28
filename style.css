@@ -1,0 +1,45 @@
+h1{
+  color:white;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+body{
+   background-image: url(https://st2.depositphotos.com/2800301/11048/v/950/depositphotos_110481368-stock-illustration-cinema-icons-set-cinema-pattern.jpg);
+  background-size: contain;
+  font-family: 'Raleway', sans-serif;
+  
+} 
+
+p{
+  color: white;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+ol{
+  margin-left: 10%;
+  margin-right: 10%;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+body{
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size:30px;
+  line-height:1.5em;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.589); 
+  padding: 10px;
+}
+img{
+  width: 100%; 
+  margin: auto;
+}
+
+img:hover{
+  box-shadow:4px 4px 4px 4px rgba(255, 255, 255, 0.534);
+}
+
